@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color: red;
+    position: relative;
+}
+.slider{
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+    display: block;
+}
+#slide1{
+    background-color: blue;
+}
+#slide2{
+    background-color: black;
+}
+#slide3{
+    background-color: chartreuse;
+}
